@@ -7,3 +7,8 @@ require_once "modelos/tareas.modelo.php";
 
 $plantilla = new ControladorPlantilla();
 $plantilla -> ctrPlantilla();
+
+
+1
+2
+3
