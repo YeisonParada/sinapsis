@@ -7,3 +7,5 @@ require_once "modelos/tareas.modelo.php";
 
 $plantilla = new ControladorPlantilla();
 $plantilla -> ctrPlantilla();
+4565
+  32132
